@@ -3,9 +3,13 @@ Computer Vision Plays a vital role in traffic management and surveillance system
 
 This System has the following Haar Cascades:
 
-Haar Cascade for Car detection
-Haar Cascade for pedestrain detection
+1)Haar Cascade for Car detection.
+2)Haar Cascade for pedestrain detection.
 
 The result of the model are shown below:
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/56934489/89130757-381aad00-d525-11ea-80b9-a198ae5a6534.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/56934489/89130796-8fb91880-d525-11ea-9237-94ae78023cdd.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/56934489/89130785-7b751b80-d525-11ea-9ab8-4cc634d9ff5b.png)
+
+If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
